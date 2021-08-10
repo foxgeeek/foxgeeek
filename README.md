@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/leonatercio" target="blank"><img src="https://img.shields.io/twitter/follow/leonatercio?logo=twitter&style=for-the-badge" alt="leonatercio" /></a> </p>
 
-- 🔭 I’m currently working on **Santander Tecnologia**
-
 - 🌱 I’m currently learning **Cypress and specialist in Angular2+**
 
 - 📫 How to reach me **leonardo.natercio@gmail.com**
