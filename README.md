@@ -1,6 +1,6 @@
 ## Olá, sou Leonardo Lacerda!
 
-#### Brasileiro, casado, residindo atualmente em Mogi das Cruzes/SP. Com experiência no mercado trabalhando como frontend desde 2009, desde freelancer até contratos para empresas como desenvolvedor de projetos para web.
+#### Brasileiro, casado, residindo atualmente em Pau dos Ferros/RN. Com experiência no mercado trabalhando como frontend desde 2009, desde freelancer até contratos para empresas como desenvolvedor de projetos para web.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonatercio&label=Profile%20views&color=0e75b6&style=flat" alt="leonatercio" /> </p>
 
