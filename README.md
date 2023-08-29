@@ -1,4 +1,21 @@
-## Olá, sou Leonardo Lacerda!
+### Hi there, I'm Leonardo Lacerda (Foxgeeek 🦊)
+
+💻 Frontend Angular Developer at @carrefour and Community Member at @he4rtdevs 💜<br>
+🏡 Brazilian
+
+### You can find me on
+
+[![linkedin badge](https://img.shields.io/badge/leonatercio-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/leonatercio/)
+[![twitter badge](https://img.shields.io/badge/@foxgeeek-30302f?style=flat&logo=twitter)](https://twitter.com/foxgeeek)
+[![instagram badge](https://img.shields.io/badge/@leonatercio-30302f?style=flat&logo=instagram)](https://instagram.com/leonatercio)
+
+- 🤘 I’m currently working on Angular + NodeJS + NestJS + Python projects 
+- 👯 I’m looking to collaborate on Projects and Mentoring
+- 🤔 I’m looking for help with Open Source
+- 📫 How to reach me: Linkedin @leonatercio
+- 😄 Pronouns: He/Him
+
+<!--## Olá, sou Leonardo Lacerda!
 
 #### Brasileiro, casado, residindo atualmente em Pau dos Ferros/RN. Com experiência no mercado trabalhando como frontend desde 2009, desde freelancer até contratos para empresas como desenvolvedor de projetos para web.
 
@@ -23,4 +40,4 @@
   <a href="https://github.com/leonatercio">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=leonatercio&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
   <img height="165em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonatercio&layout=compact&langs_count=6&theme=city_lights"/>
-</div> 
+</div> -->
