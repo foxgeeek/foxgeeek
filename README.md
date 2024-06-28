@@ -1,6 +1,6 @@
 ### Hi there, I'm Leonardo Lacerda (Foxgeeek 🦊)
 
-💻 Frontend Angular Developer at @carrefour and Community Member at @he4rtdevs 💜<br>
+💻 Frontend Angular Developer at @carrefour<br>
 🏡 Brazilian
 
 ### You can find me on
