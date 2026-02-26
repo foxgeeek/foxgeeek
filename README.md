@@ -1,18 +1,15 @@
-### Hi there, I'm Leonardo Lacerda (Foxgeeek 🦊)
+### Hi there, I'm Foxgeeek 🦊
 
-💻 Frontend Angular Developer at @carrefour<br>
+💻 Frontend Angular Developer<br>
 🏡 Brazilian
 
 ### You can find me on
 
-[![linkedin badge](https://img.shields.io/badge/leonatercio-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/leonatercio/)
 [![twitter badge](https://img.shields.io/badge/@foxgeeek-30302f?style=flat&logo=twitter)](https://twitter.com/foxgeeek)
-[![instagram badge](https://img.shields.io/badge/@leonatercio-30302f?style=flat&logo=instagram)](https://instagram.com/leonatercio)
 
-- 🤘 I’m currently working on Angular + NodeJS + NestJS + Python projects 
+- 🤘 I’m currently working on Angular + NodeJS + NestJS + Python + NextJS + React projects 
 - 👯 I’m looking to collaborate on Projects and Mentoring
 - 🤔 I’m looking for help with Open Source
-- 📫 How to reach me: Linkedin @leonatercio
 - 😄 Pronouns: He/Him
 
 <!--## Olá, sou Leonardo Lacerda!
