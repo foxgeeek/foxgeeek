@@ -12,6 +12,12 @@
 - 🤔 I’m looking for help with Open Source
 - 😄 Pronouns: He/Him
 
+## My Projects
+
+- [Afiliado.me](https://afiliado.me)
+- [Buildflow.me](https://buildflow.me)
+- [Raposinho Promo](https://raposinha.promo)
+
 <!--## Olá, sou Leonardo Lacerda!
 
 #### Brasileiro, casado, residindo atualmente em Pau dos Ferros/RN. Com experiência no mercado trabalhando como frontend desde 2009, desde freelancer até contratos para empresas como desenvolvedor de projetos para web.
